@@ -1,0 +1,3 @@
+https://nodemcu.readthedocs.io/en/master/en/modules/http/
+https://circuits4you.com/2018/03/10/esp8266-nodemcu-post-request-data-to-website/
+https://www.instructables.com/id/Interface-L298N-Using-NodeMCU/
